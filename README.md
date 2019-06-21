@@ -1,5 +1,6 @@
 # TpFinalRedes
 
+Ubicacion jar: Build
 Ejecucion de jar:
   
   1-Ejecutar desde una consola servidor.jar
